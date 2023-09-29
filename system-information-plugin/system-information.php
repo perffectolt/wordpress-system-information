@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: System Information
+ * Plugin Name: Your wordpress setup information
  * Plugin URI: https://www.perffecto.lt
  * Description: A plugin to display system information.
  * Version: 1.0
