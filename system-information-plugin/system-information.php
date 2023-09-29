@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Your wordpress setup information
- * Plugin URI: https://www.perffecto.lt
+ * Plugin Name: Your system setup information
+ * Plugin URI: https://github.com/perffectolt/wordpress-system-information
  * Description: A plugin to display system information.
  * Version: 1.0
  * Author: PERFFECTO.LT
