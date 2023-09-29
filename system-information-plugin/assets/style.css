@@ -1,0 +1,74 @@
+
+/* Reset some styles */
+.wrap h2, .wrap h3, .wrap p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container */
+.wrap {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+/* Header styles */
+.wrap h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Section header */
+.wrap h3 {
+    color: #555;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #ddd;
+}
+
+/* Paragraph styles */
+.wrap p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+/* List styles */
+.wrap ul {
+    list-style: none;
+    padding: 0;
+}
+
+.wrap ul li {
+    margin-bottom: 10px;
+    color: #666;
+}
+
+/* Button styles */
+.wrap input[type="submit"] {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.wrap input[type="submit"]:hover {
+    background-color: white; 
+    color: black; 
+    border: 1px solid #4CAF50;
+}
