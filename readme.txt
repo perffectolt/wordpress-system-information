@@ -3,4 +3,4 @@
 * Version: 1.0
 * Author: PERFFECTO.LT
 * Author URI: https://www.perffecto.lt
-* License: GPL2
+* License: GPL2v2
